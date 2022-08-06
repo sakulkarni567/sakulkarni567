@@ -1,5 +1,5 @@
-<div class="header" algin="center">
-### Hi there 👋
+<div class="header" align="center">
+Hi there 👋
 <div class="badges">
 <a href="https://linkedin.com/in/saket-kulkarni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
