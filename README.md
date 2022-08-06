@@ -9,8 +9,10 @@
 
 <div class="body" align="left">
     <h2> About me: </h2>
-    - I'm looking to break into the tech space and work in Product Management. <br>
-    - Currently a Business Operations and Growth Intern at Signal Advisors, a Fintech startup in Detroit.
-    - In my free time, I love to hike, travel, and game.
-    - Feel free to<a href="mailto:sakulkarni567@gmail.com" style="color:purple"> shoot me an email! </a>
+    <ul>
+        <li>🧑🏽‍💻 I'm looking to break into the tech space and work in Product Management.</li>
+        <li>💼 Currently a Business Operations and Growth Intern at Signal Advisors, a Fintech startup in Detroit.</li>
+        <li>⛰🎮 In my free time, I love to hike, travel, and game.</li>
+        <li>📧 Feel free to <a href="mailto:sakulkarni567@gmail.com">shoot me an email!</a></li>
+    </ul>
 </div>
