@@ -4,8 +4,8 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
-    <h1>hey there 👋 <br></h1>
 </div>
+### hey there 👋
 <div class="body" align="left">
     <h2>About me:</h2>
     <ul>
