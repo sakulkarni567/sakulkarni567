@@ -4,7 +4,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
-    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="coding gif"><br>
+    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="coding gif" height="300" width="400"><br>
     <h1>hey there 👋 <br></h1>
 </div>
 <div class="body" align="left">
