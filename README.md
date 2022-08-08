@@ -8,7 +8,7 @@
     <h3>hey there 👋 <br></h3>
 </div>
 <div class="body" align="left">
-    <h4>About me:</h4>
+    <h2>About me:</h2>
     <ul>
         <li>🧑🏽‍💻 I'm looking to break into the tech space and work in Product Management.</li>
         <li>💼 Currently a Business Operations and Growth Intern at Signal Advisors, a Fintech startup in Detroit.</li>
@@ -23,7 +23,7 @@
     <li>Seam Carving Algorithm: Inputs images in a PPM format and resizes them in C++ to desired dimensions</li>
     <li>MapReduce Server: Implemented a locally run MapReduce server in Python using multi-threading that executes user-submitted jobs</li>
     </ul>
-    <h4>Languages and Tools</h4>
+    <h2>Languages and Tools</h2>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="40" width="40">&nbsp;
