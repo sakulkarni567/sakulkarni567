@@ -16,7 +16,7 @@
         <li>📧 Feel free to reach out to me at <a href="mailto:sakulkarni567@gmail.com">sakulkarni567@gmail.com</a> or on <a href="https://linkedin.com/in/saket-kulkarni">LinkedIn</a>.</li>
     </ul>
     <h2>My Projects</h2>
-    The following github repositories are for projects I've worked on as part of class projects. Unfortunately, due to honor code guidelines, I cannot make them public. If you're interested in viewing them, please <a href="mailto:sakulkarni567@gmail.com">email me</a>.
+    The following github repositories are for projects I've worked on as part of class projects. Unfortunately, due to honor code guidelines, I cannot make them public. If you're interested in viewing them, please <a href="mailto:sakulkarni567@gmail.com">email me</a>.<br>
     <ul>
     <li><b>Instagram Clone</b>: Developed front and back end using React and a Flask-based REST API with a SQL server, allowing users to make posts, like/comment on them, follow other users, and update account information</li>
     <li><b>Log Management System</b>: Sorts log file into a hash map in C++ and allows users to pull data with category, timestamp, and keyword searches</li>
