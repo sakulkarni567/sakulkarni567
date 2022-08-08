@@ -18,10 +18,10 @@
     <h2>My Projects</h2>
     The following github repositories are for projects I've worked on as part of class projects. Unfortunately, due to honor code guidelines, I cannot make them public. If you're interested in viewing them, please <a href="mailto:sakulkarni567@gmail.com">email me</a>.
     <ul>
-    <li>Instagram Clone: Developed front and back end using React and a Flask-based REST API with a SQL server, allowing users to make posts, like/comment on them, follow other users, and update account information</li>
-    <li>Log Management System: Sorts log file into a hash map in C++ and allows users to pull data with category, timestamp, and keyword searches</li>
-    <li>Seam Carving Algorithm: Inputs images in a PPM format and resizes them in C++ to desired dimensions</li>
-    <li>MapReduce Server: Implemented a locally run MapReduce server in Python using multi-threading that executes user-submitted jobs</li>
+    <li><b>Instagram Clone</b>: Developed front and back end using React and a Flask-based REST API with a SQL server, allowing users to make posts, like/comment on them, follow other users, and update account information</li>
+    <li><b>Log Management System</b>: Sorts log file into a hash map in C++ and allows users to pull data with category, timestamp, and keyword searches</li>
+    <li><b>Seam Carving Algorithm</b>: Inputs images in a PPM format and resizes them in C++ to desired dimensions</li>
+    <li><b>MapReduce Server</b>: Implemented a locally run MapReduce server in Python using multi-threading that executes user-submitted jobs</li>
     </ul>
     <h2>Languages and Tools</h2>
     <div>
