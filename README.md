@@ -5,10 +5,10 @@
         </a>
     </div>
     <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="coding gif" height="300" width="400"><br>
-    <h1>hey there 👋 <br></h1>
+    <h3>hey there 👋 <br></h3>
 </div>
 <div class="body" align="left">
-    <h2>About me:</h2>
+    <h4>About me:</h4>
     <ul>
         <li>🧑🏽‍💻 I'm looking to break into the tech space and work in Product Management.</li>
         <li>💼 Currently a Business Operations and Growth Intern at Signal Advisors, a Fintech startup in Detroit.</li>
@@ -18,11 +18,12 @@
     <h2>My Projects</h2>
     The following github repositories are for projects I've worked on as part of class projects. Unfortunately, due to honor code guidelines, I cannot make them public. If you're interested in viewing them, please <a href="mailto:sakulkarni567@gmail.com">email me</a>.
     <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Instagram Clone: Developed front and back end using React and a Flask-based REST API with a SQL server, allowing users to make posts, like/comment on them, follow other users, and update account information</li>
+    <li>Log Management System: Sorts log file into a hash map in C++ and allows users to pull data with category, timestamp, and keyword searches</li>
+    <li>Seam Carving Algorithm: Inputs images in a PPM format and resizes them in C++ to desired dimensions</li>
+    <li>MapReduce Server: Implemented a locally run MapReduce server in Python using multi-threading that executes user-submitted jobs</li>
     </ul>
-    <h2>Languages and Tools</h2>
+    <h4>Languages and Tools</h4>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="40" width="40">&nbsp;
