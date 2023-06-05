@@ -11,8 +11,8 @@
     <h2>About me:</h2>
     <ul>
         <li>🧑🏽‍💻 I'm looking to break into the tech space and work in Product Management</li>
-        <li>💼 Currently a Business Operations and Growth Intern at Signal Advisors, a Fintech startup in Detroit</li>
-        <li>📚 Studying business and computer science at the University of Michigan</li>
+        <li>💼 Currently a Business Program Manager Intern at Microsoft</li>
+        <li>📚 Studying business, entrepreneurship, and computer science at the University of Michigan</li>
         <li>⛰ In my free time, I love to hike, travel, and game.</li>
         <li>📧 Feel free to reach out to me at <a href="mailto:sakulkarni567@gmail.com">sakulkarni567@gmail.com</a> or on <a href="https://linkedin.com/in/saket-kulkarni">LinkedIn</a></li>
     </ul>
